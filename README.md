@@ -1,6 +1,6 @@
 # Amazon Clone
 
-## Aplicação criada simulando o site e-commerce Amazon, com funcionalidades de login e sign up e adicionar produtos ao carrinho de compras.
+### Aplicação criada simulando o site e-commerce Amazon, com funcionalidades de login e sign up e adicionar produtos ao carrinho de compras.
 
 ### Atualmente a Amazon comercializa produtos diversos, incluindo brinquedos, eletrônicos, vestuários e acessórios. Além disso, a gigante do varejo online oferece serviços, como a Amazon Web Services (serviços de armazenamento em nuvem), Amazon Prime (streaming) e Alexa (assistente virtual).
 
